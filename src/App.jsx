@@ -342,12 +342,12 @@ function App() {
         </p>
 
         <a
-          href="https://github.com/Subhashisg/Z-Secure"
+          href="https://z-secure.onrender.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-cyan-400 text-black px-5 py-2 rounded-xl font-semibold hover:scale-105 transition"
         >
-          View on GitHub
+          Live Demo
         </a>
 
       </div>
@@ -367,7 +367,7 @@ function App() {
     Contact Me
   </h2>
 
-  <div className="max-w-4xl mx-auto bg-gray-900/50 border border-gray-800 rounded-3xl p-10 backdrop-blur-lg">
+  <div className="w-full px-6 bg-gray-900/40 backdrop-blur-lg border border-gray-800 rounded-3xl p-10 ">
 
     <p className="text-center text-gray-400 text-lg leading-8 mb-12">
       I’m always open to discussing new opportunities,
