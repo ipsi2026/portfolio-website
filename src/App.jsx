@@ -274,12 +274,12 @@ function App() {
         </p>
 
         <a
-          href="https://github.com/ipsi2026/agentic-cybersecurity-ai"
+          href="https://agentic-cybersecurity-ai-gxztg9rgugnhtzjsvzzw6h.streamlit.app"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-cyan-400 text-black px-5 py-2 rounded-xl font-semibold hover:scale-105 transition"
         >
-          View on GitHub
+          Live Demo
         </a>
 
       </div>
